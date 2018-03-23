@@ -75,7 +75,7 @@
             android:layout_weight="1"
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
-            android:text="FINALIZER ROCESSAMENTO"
+            android:text="FINALIZAR PROCESSAMENTO"
             android:textColor="#64B5F6" />
 
     </LinearLayout>
